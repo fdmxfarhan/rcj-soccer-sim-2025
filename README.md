@@ -1,7 +1,3 @@
-Here’s a clean and professional **README.md** you can use:
-
----
-
 # RCJ Soccer Simulation – IranOpen RoboCup 2025
 
 ### Open-Source Code Repository
@@ -36,5 +32,5 @@ We encourage collaboration! Feel free to open issues, submit pull requests, or f
 Any enhancements, bug fixes, or new ideas are welcome.
 The goal is to help the RCJ Soccer Simulation community grow and make high-quality tools available for everyone.
 
----
+
 
